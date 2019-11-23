@@ -1,1 +1,1 @@
-Página de construção, testando CSS e HTML apenas.
+Website under construction, using just CSS & HTML.
