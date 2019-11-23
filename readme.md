@@ -1,1 +1,1 @@
-Website under construction, using just CSS & HTML.
+Website under construction, just using CSS & HTML.
